@@ -15,7 +15,7 @@
   ![Gmail](https://img.shields.io/badge/GMAIL-FBBC05?style=for-the-badge&logo=gmail)
 </a>
 <a href="https://t.me/amir_720/" target="blank">
-  ![Telegram](https://img.shields.io/badge/TELEGRAM-2AABEE?style=for-the-badge&logo=telegram)
+  ![Telegram](https://img.shields.io/badge/TELEGRAM-87d3f8?style=for-the-badge&logo=telegram)
 </a>
 
 <!--
@@ -28,7 +28,7 @@
 
 ## ⚙️ Languages and Technologies  :
 
-![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=Linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-ffff5b?style=for-the-badge&logo=Linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=vim)
 <br>
