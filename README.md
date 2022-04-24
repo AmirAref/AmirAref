@@ -33,6 +33,8 @@
 ![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=vim)
 <br>
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=fbcb24)
+![js](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/Csharp-fff?style=for-the-badge&logo=Csharp&logoColor=682876)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django)
 
 
