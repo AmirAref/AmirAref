@@ -43,7 +43,7 @@
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 
   <a href="https://github.com/AmirAref">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraref&theme=nightowl&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraref&theme=nightowl&hide_border=true&hide=vim script,shell" />
   </a>
   <br>
   <a href="https://github.com/AmirAref">
