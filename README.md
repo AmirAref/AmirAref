@@ -1,14 +1,12 @@
 <!-- <h1 align="center"> Hi, I'm Amir Aref <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>  -->
-<h1 align="center"> Hi, I'm Amir Aref</h1>
+<h1 align="center"> Hi, I'm Amir Hasan Aref Asl</h1>
 
 <!-------------CONTACT INFO------------>
 
 ## 📮 My Contact Info :
 
-<a href="https://stackoverflow.com/users/15430200/amir-aref" target="blank">
 
-  ![Stack OverFlow](https://img.shields.io/badge/stack_overflow-393939?style=for-the-badge&logo=stackoverflow)
-</a>
+[![Stack OverFlow](https://img.shields.io/badge/stack_overflow-393939?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/15430200/amir-aref)
 <a href="https://www.linkedin.com/in/amiraref/" target="blank">
   ![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
@@ -29,24 +27,24 @@
 
 ## ⚙️ Languages and Technologies  :
 
-![Linux](https://img.shields.io/badge/Linux-ffff5b?style=for-the-badge&logo=Linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=vim)
+[![Linux](https://img.shields.io/badge/Linux-ffff5b?style=for-the-badge&logo=Linux&logoColor=black)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=vim)](#)
 <br>
-![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=fbcb24)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django)
-![C#](https://img.shields.io/badge/Csharp-fff?style=for-the-badge&logo=Csharp&logoColor=682876)
-![js](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript)
+[![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=fbcb24)](#)
+[![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django)](#)
+[![C#](https://img.shields.io/badge/Csharp-fff?style=for-the-badge&logo=Csharp&logoColor=682876)](#)
+[![js](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript)](#)
 
 
 
 <br>
 <!-------------STATICS------------>
 <details>
-  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+  <summary><h3>📈 My GitHub Stats</h3></summary>
 
   <a href="https://github.com/AmirAref">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraref&theme=nightowl&hide_border=true&hide=vim script,shell" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraref&theme=nightowl&hide_border=true&hide=vim%20script,shell" />
   </a>
   <br>
   <a href="https://github.com/AmirAref">
