@@ -29,12 +29,13 @@
 
 [![Linux](https://img.shields.io/badge/Linux-ffff5b?style=for-the-badge&logo=Linux&logoColor=black)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](#)
 [![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=vim)](#)
 <br>
 [![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=fbcb24)](#)
 [![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django)](#)
 [![C#](https://img.shields.io/badge/Csharp-fff?style=for-the-badge&logo=Csharp&logoColor=682876)](#)
-[![js](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript)](#)
+<!--[![js](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript)](#)-->
 
 
 
@@ -44,7 +45,7 @@
   <summary><h3>📈 My GitHub Stats</h3></summary>
 
   <a href="https://github.com/AmirAref">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraref&theme=nightowl&hide_border=true&hide=vim%20script,shell" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraref&theme=nightowl&hide_border=true&hide=vim%20script,shell,javascript,css" />
   </a>
   <br>
   <a href="https://github.com/AmirAref">
