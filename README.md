@@ -38,6 +38,11 @@
 <!--[![js](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript)](#)-->
 
 
+<br> 
+
+## ❤️ Donate and Support :  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://www.buymeacoffee.com/amiraref) 
+
 
 <br>
 <!-------------STATICS------------>
