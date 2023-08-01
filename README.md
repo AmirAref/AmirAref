@@ -34,7 +34,7 @@
 <br>
 [![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=fbcb24)](#)
 [![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django)](#)
-[![C#](https://img.shields.io/badge/Csharp-fff?style=for-the-badge&logo=Csharp&logoColor=682876)](#)
+[![C#](https://img.shields.io/badge/Csharp-f0f8ff?style=for-the-badge&logo=Csharp&logoColor=682876)](#)
 <!--[![js](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript)](#)-->
 
 
